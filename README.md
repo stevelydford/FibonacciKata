@@ -1,4 +1,4 @@
-# FibonacciKata
+# Fibonacci Kata
 
 For any given number between 1 and 30, return an array of numbers in which each item in the array represents the sum of the two preceding numbers:
 
